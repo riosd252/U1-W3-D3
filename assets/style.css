@@ -31,11 +31,6 @@ input {
   border-radius: 5px;
 }
 
-.task:active {
-  text-decoration: line-through;
-  color: red;
-}
-
 button {
   border: none;
   border-radius: 3px;
